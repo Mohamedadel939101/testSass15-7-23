@@ -1,0 +1,33 @@
+{
+    "users":[
+
+        {
+            "id": 1,
+            "username": "mohammed",
+            "password": 123456,
+            "email": "moh#gmail.com",
+            "age": "20"
+        },
+        {
+            "id": 2,
+            "username": "ahmed",
+            "password": 1234567,
+            "email": "ahm#gmail.com",
+            "age": "22"
+        },
+        {
+            "id": 3,
+            "username": "ali",
+            "password": 12345678,
+            "email": "al#gmail.com",
+            "age": "25"
+        },
+        {
+            "id": 4,
+            "username": "alaa",
+            "password": 123456789,
+            "email": "al#gmail.com",
+            "age": "26"
+        }
+    ]
+}
